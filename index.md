@@ -1,4 +1,4 @@
 ## Dan Rosenbaum
 
-I'm a research scientist at DeepMind.
+![alt text](danrosenbaum.jpeg Dan Rosenbaum) I'm a research scientist at DeepMind.
 
