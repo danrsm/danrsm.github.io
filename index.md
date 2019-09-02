@@ -12,8 +12,7 @@ My current research deals with various problems in visual scene understanding, a
 
 [Publications](https://scholar.google.com/citations?user=a6CNXV8AAAAJ&hl=en)
 
-
-
+<br><br><br><br>
 
 I am co-organising a workshop at NeurIPS 2019 titled 
 "**Perception as Generative Reasoning: Structure, Causality, Probability**". 
