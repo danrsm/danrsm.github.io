@@ -15,7 +15,6 @@ My current research deals with various problems in visual scene understanding, a
 <br><br><br>
 
 I am co-organising a workshop at NeurIPS 2019 titled 
-"**Perception as Generative Reasoning: Structure, Causality, Probability**".
-
+"**Perception as Generative Reasoning: Structure, Causality, Probability**".  
 Check out the [website](https://pgr-workshop.github.io) and consider submitting relevant papers. Submission deadline is September 13.
 
