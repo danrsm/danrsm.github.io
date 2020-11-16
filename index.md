@@ -22,7 +22,7 @@ I am interested in computational models of vision and 3D scene understanding, an
 - embodied generative models that can control key variables in the data they are trained to capture.
 - scientific imageing, where knowledge of the image acquisition process is used to infer the underlying 3D scene.
 
-## Research:
+<!--## Research:-->
 
 I am co-organising a workshop at NeurIPS 2019 titled 
 "**Perception as Generative Reasoning: Structure, Causality, Probability**".  
