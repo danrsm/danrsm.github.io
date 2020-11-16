@@ -1,5 +1,6 @@
 
 # Dan Rosenbaum
+<div>
 <img style="float: left; margin: 0px 20px 20px 0px;" src="/dan_rosenbaum.jpeg" alt="Dan Rosenbaum" width="300"/>
 
 <br>
@@ -13,7 +14,7 @@ Prior to that, I completed my PhD at the Hebrew University of Jerusalem in 2016,
 
 
 [Publications](https://scholar.google.com/citations?user=a6CNXV8AAAAJ&hl=en)
-
+</div>
 <br><br><br>
 
 I am interested in computational models of vision and 3D scene understanding, and using generative approaches that model vision as an inverse problem. 
