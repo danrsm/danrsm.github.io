@@ -15,7 +15,7 @@ Prior to that, I completed my PhD at the Hebrew University of Jerusalem in 2016,
 
 [Publications](https://scholar.google.com/citations?user=a6CNXV8AAAAJ&hl=en)
 
-<p clear: left;></p>
+<p style="clear: left;"></p>
 
 I am interested in computational models of vision and 3D scene understanding, and using generative approaches that model vision as an inverse problem. 
 - learning models of 3D scenes that can be used for inference.
