@@ -1,7 +1,7 @@
 
 # Dan Rosenbaum
 
-<img style="float: left; margin: 0px 20px 20px 0px;" src="/dan_rosenbaum.jpeg" alt="Dan Rosenbaum" width="30%" max-width=350px min-width=300px />
+<img style="float: left; margin: 0px 20px 20px 0px;" src="/dan_rosenbaum.jpeg" alt="Dan Rosenbaum" width="30%" max-width=350px !important; min-width=300px !important; />
 
 I am a research scientist at DeepMind working on machine learning and computer vision. 
 
