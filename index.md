@@ -1,9 +1,8 @@
 
 # Dan Rosenbaum
 
-<img style="float: left; margin: 0px 20px 20px 0px;" src="/dan_rosenbaum.jpeg" alt="Dan Rosenbaum" width="30%" max-width=350px min-width=300px/>
+<img style="float: left; margin: 0px 20px 20px 0px;" src="/dan_rosenbaum.jpeg" alt="Dan Rosenbaum" width="30%" max-width=350px min-width=300px />
 
-<br>
 I am a research scientist at DeepMind working on machine learning and computer vision. 
 
 Prior to that, I completed my PhD at the Hebrew University of Jerusalem in 2016, advised by [Yair Weiss](http://www.cs.huji.ac.il/~yweiss/), studying generative models for low-level vision problems. 
