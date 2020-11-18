@@ -25,13 +25,13 @@ I am interested in computational models of vision and 3D scene understanding, an
 I co-organised a workshop at NeurIPS 2019 titled "**Perception as Generative Reasoning: Structure, Causality, Probability**".  
 See the [website](https://pgr-workshop.github.io) for all papers, invited talks and videos.
 
-[Publications](https://scholar.google.com/citations?user=a6CNXV8AAAAJ&hl=en) [Research Statement](/dan_rosenbaum_research_statement.pdf) [CV](/dan_rosenbaum_CV.pdf)
+[Publications](https://scholar.google.com/citations?user=a6CNXV8AAAAJ&hl=en) ~~~ [Research Statement](/dan_rosenbaum_research_statement.pdf) ~~~ [CV](/dan_rosenbaum_CV.pdf)
 
 ## Research
 
 <img style="float: left; margin: 0px 20px 20px 0px; max-width: 200px;" src="/inverse_graphics.png" alt="learning inverse graphics" width="20%" />
 **Learning inverse graphics** - In the inverse graphics aproach vision problems are formulated as inference using a forward model that captures the image generation process. I am currently exploring different setups for learning forward models that can be used for efficient inference.
 
-<hr>
+<p style="clear: left;"></p><hr>
 
 
