@@ -8,11 +8,8 @@ I am a research scientist at DeepMind working on machine learning and computer v
 Before joining DeepMind, I completed my PhD at the Hebrew University of Jerusalem in 2016, advised by [Yair Weiss](http://www.cs.huji.ac.il/~yweiss/), studying generative models for low-level vision problems. 
 <a href="/DanRosenbaumThesis.pdf">[thesis]</a>
 
+[Publications](https://scholar.google.com/citations?user=a6CNXV8AAAAJ&hl=en) &nbsp;&nbsp;&nbsp; [Research Statement](/dan_rosenbaum_research_statement.pdf) &nbsp;&nbsp;&nbsp; [CV](/dan_rosenbaum_CV.pdf)
 
-<!-- My current research deals with various problems in visual scene understanding, and generative approaches to solve them. I am also interested in approximate inference methods in probabilistic models. -->
-
-
-[Publications](https://scholar.google.com/citations?user=a6CNXV8AAAAJ&hl=en)
 
 <p style="clear: left;"></p>
 
