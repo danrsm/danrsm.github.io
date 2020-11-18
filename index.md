@@ -25,7 +25,7 @@ I am interested in computational models of vision and 3D scene understanding, an
 I co-organised a workshop at NeurIPS 2019 titled "**Perception as Generative Reasoning: Structure, Causality, Probability**".  
 See the [website](https://pgr-workshop.github.io) for all papers, invited talks and videos.
 
-[Publications](https://scholar.google.com/citations?user=a6CNXV8AAAAJ&hl=en) ~~~ [Research Statement](/dan_rosenbaum_research_statement.pdf) ~~~ [CV](/dan_rosenbaum_CV.pdf)
+[Publications](https://scholar.google.com/citations?user=a6CNXV8AAAAJ&hl=en) &nbsp;&nbsp;&nbsp; [Research Statement](/dan_rosenbaum_research_statement.pdf) &nbsp;&nbsp;&nbsp; [CV](/dan_rosenbaum_CV.pdf)
 
 ## Research
 
