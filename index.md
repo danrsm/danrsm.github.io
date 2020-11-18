@@ -31,9 +31,9 @@ See the [website](https://pgr-workshop.github.io) for all papers, invited talks 
 
 <img style="float: left; margin: 0px 20px 20px 0px; max-width: 200px;" src="/inverse_graphics.png" alt="learning inverse graphics" width="20%" />
 **Learning inverse graphics** - In the inverse graphics aproach vision problems are formulated as inference using a forward model that captures the image generation process. I am currently exploring different setups for learning forward models that can be used for efficient inference.
-<p style="clear: left;"></p><hr style="height:1px;~>
-<img style="float: left; margin: 0px 20px 20px 0px; max-width: 200px;" src="/gqn_attention.png" alt="3D scene understanding with Generative Query Networks (GQN)" width="20%" />
+<p style="clear: left;"></p><hr style="height:1px;">
+<img style="float: left; margin: 0px 20px 20px 0px; max-width: 200px;" src="/gqn_attention.gif" alt="3D scene understanding with Generative Query Networks (GQN)" width="20%" />
 **3D scene understanding with Generative Query Network (GQN)** - In this paper ([Science](http://science.sciencemag.org/content/360/6394/1204)) we show how implicit scene understanding can emerge from training a model to predict novel views of random 3D scenes ([video](https://youtu.be/G-kWNQJ4idw)). In a follow-up paper ([arXiv](https://arxiv.org/abs/1807.03149)) we extend the model to use attention over image patches, improving it's capacity to model rich environments like Minecaft. We study the camera pose estimation problem comparing an inference method on the generative model vs. a direct discriminative approach.   
-<p style="clear: left;"></p><hr style="height:1px;~>
+<p style="clear: left;"></p><hr style="height:1px;">
 
 
