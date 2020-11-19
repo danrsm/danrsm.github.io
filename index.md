@@ -17,7 +17,7 @@ I am interested in computational models of vision and 3D scene understanding, an
 - learning models of 3D scenes that can be used for inference.
 - learning discrete representations that divide scenes into objects, types, and concepts.
 - embodied generative models that can control key variables in the data they are trained to capture.
-- scientific imageing, where knowledge of the image acquisition process is used to infer the underlying 3D scene.
+- scientific imaging, where knowledge of the image acquisition process is used to infer the underlying 3D scene.
 
 I co-organised a workshop at NeurIPS 2019 titled "**Perception as Generative Reasoning: Structure, Causality, Probability**".  
 See the [website](https://pgr-workshop.github.io) for all papers, invited talks and videos.
@@ -27,13 +27,13 @@ See the [website](https://pgr-workshop.github.io) for all papers, invited talks 
 ## Research
 
 <img style="float: left; margin: 0px 20px 20px 0px; max-width: 200px;" src="/inverse_graphics.png" alt="learning inverse graphics" width="20%" />
-**Learning inverse graphics** - In the inverse graphics aproach vision problems are formulated as inference using a forward model that captures the image generation process. I am currently exploring different setups for learning forward models that can be used for efficient inference.
+**Learning inverse graphics** - In the inverse graphics approach vision problems are formulated as inference using a forward model that captures the image generation process. I am currently exploring different setups for learning forward models that can be used for efficient inference.
 <p style="clear: left;"></p><hr style="height:1px;">
 <img style="float: left; margin: 0px 20px 20px 0px; max-width: 200px;" src="/gqn_attention.gif" alt="3D scene understanding with Generative Query Networks (GQN)" width="20%" />
 **3D scene understanding with Generative Query Network (GQN)** - In this paper ([Science](http://science.sciencemag.org/content/360/6394/1204)) we show how implicit scene understanding can emerge from training a model to predict novel views of random 3D scenes ([video](https://youtu.be/G-kWNQJ4idw)). In a follow-up paper ([arXiv](https://arxiv.org/abs/1807.03149)) we extend the model to use attention over image patches, improving it's capacity to model rich environments like Minecaft. We study the camera pose estimation problem comparing an inference method on the generative model vs. a direct discriminative approach ([video](https://youtu.be/iHEXX5wXbCI), [datasets](https://github.com/deepmind/gqn-datasets)).   
 <p style="clear: left;"></p><hr style="height:1px;">
 <img style="float: left; margin: 0px 20px 20px 0px; max-width: 200px;" src="/np.gif" alt="Neural processes" width="20%" />
-**Neural processes** - We introduce conditional neural processes ([arXiv](https://arxiv.org/abs/1807.01613)) and neural processes ([arXiv](https://arxiv.org/abs/1807.01622)), that are trained to predict values of a functions given a context of observed function evaluations. These models provides a general framework for dealing with uncertainty, demonstrating fast adaptivity, and allowing a smooth transition between a prior model that is not conditioned on any data, and  flexible posterior models which can be conditioned on more and more data. In follow-up work we extend the model with an attention mechanism over context points ([arXiv](https://arxiv.org/abs/1901.05761)) and study different training objectives ([pdf](http://bayesiandeeplearning.org/2018/papers/92.pdf)).
+**Neural processes** - We introduce conditional neural processes ([arXiv](https://arxiv.org/abs/1807.01613)) and neural processes ([arXiv](https://arxiv.org/abs/1807.01622)), that are trained to predict values of a functions given a context of observed function evaluations. These models provide a general framework for dealing with uncertainty, demonstrating fast adaptivity, and allowing a smooth transition between a prior model that is not conditioned on any data, and  flexible posterior models which can be conditioned on more and more data. In follow-up work we extend the model with an attention mechanism over context points ([arXiv](https://arxiv.org/abs/1901.05761)) and study different training objectives ([pdf](http://bayesiandeeplearning.org/2018/papers/92.pdf)).
 <p style="clear: left;"></p><hr style="height:1px;">
 
 
