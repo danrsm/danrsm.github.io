@@ -8,7 +8,7 @@ I am a research scientist at DeepMind working on machine learning and computer v
 Before joining DeepMind, I completed my PhD at the Hebrew University of Jerusalem in 2016, advised by [Yair Weiss](http://www.cs.huji.ac.il/~yweiss/), studying generative models for low-level vision problems. 
 <a href="/DanRosenbaumThesis.pdf">[thesis]</a>
 
-[Publications](https://scholar.google.com/citations?user=a6CNXV8AAAAJ&hl=en) &nbsp;&nbsp;&nbsp; [Research Statement](/dan_rosenbaum_research_statement.pdf) &nbsp;&nbsp;&nbsp; [CV](/dan_rosenbaum_CV.pdf)
+[Publications](https://scholar.google.com/citations?user=a6CNXV8AAAAJ&hl=en) &nbsp;&nbsp;&nbsp; [Research Statement](/dan_rosenbaum_research_statement.pdf) &nbsp;&nbsp;&nbsp; [CV](/dan_rosenbaum_CV.pdf) &nbsp;&nbsp;&nbsp; [Contact](#contact)
 
 
 <p style="clear: left;"></p>
@@ -41,7 +41,7 @@ See the [website](https://pgr-workshop.github.io) for all papers, invited talks 
 
 ## Contact
 
-<img style="float: left; margin: 0px 20px 20px 0px; max-width: 150px;" src="/dan_rosenbaum.png" alt="Dan Rosenbaum" width="15%" />
+<img id="contact" style="float: left; margin: 0px 20px 20px 0px; max-width: 150px;" src="/dan_rosenbaum.png" alt="Dan Rosenbaum" width="15%" />
 danro@google.com 
 
 [twitter.com/danrsm](https://twitter.com/danrsm)
