@@ -39,4 +39,11 @@ See the [website](https://pgr-workshop.github.io) for all papers, invited talks 
 **Neural processes** - We introduce conditional neural processes ([arXiv](https://arxiv.org/abs/1807.01613)) and neural processes ([arXiv](https://arxiv.org/abs/1807.01622)), that are trained to predict values of functions given a context of observed function evaluations. These models provide a general framework for dealing with uncertainty, demonstrating fast adaptivity, and allowing a smooth transition between a prior model that is not conditioned on any data, and  flexible posterior models which can be conditioned on more and more data. In follow-up work we extend the model with an attention mechanism over context points ([arXiv](https://arxiv.org/abs/1901.05761)) and study different training objectives ([pdf](http://bayesiandeeplearning.org/2018/papers/92.pdf)).
 <p style="clear: left;"></p><hr style="height:1px;">
 
+## Contact
+
+<img style="float: left; margin: 0px 20px 20px 0px; max-width: 150px;" src="/dan_rosenbaum.png" alt="Dan Rosenbaum" width="15%" />
+danro@google.com 
+
+[twitter.com/danrsm](https://twitter.com/danrsm)
+
 
