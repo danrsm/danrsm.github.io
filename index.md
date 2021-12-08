@@ -1,11 +1,12 @@
 
 # Dan Rosenbaum
 
-<img style="float: left; margin: 0px 20px 20px 0px; max-width: 350px;" src="/dan_rosenbaum.jpeg" alt="Dan Rosenbaum" width="50%" />
+<img style="float: left; margin: 0px 20px 20px 0px; max-width: 350px;" src="/DanRosenbaum.jpg" alt="Dan Rosenbaum" width="50%" />
 
-I am a research scientist at DeepMind working on machine learning and computer vision. 
+I am an assistant professor in the Departement of Computer Science at the University of Haifa, working on machine learning and computer vision.
 
-Before joining DeepMind, I completed my PhD at the Hebrew University of Jerusalem in 2016, advised by [Yair Weiss](http://www.cs.huji.ac.il/~yweiss/), studying generative models for low-level vision problems. 
+Until recently I was a research scientist at DeepMind for five years. 
+Before that, I completed my PhD at the Hebrew University of Jerusalem in 2016, advised by [Yair Weiss](http://www.cs.huji.ac.il/~yweiss/), studying generative models for low-level vision problems. 
 <a href="/DanRosenbaumThesis.pdf">[thesis]</a>
 
 [Publications](https://scholar.google.com/citations?user=a6CNXV8AAAAJ&hl=en)  &nbsp;&nbsp;&nbsp; [Contact](#contact)
@@ -26,11 +27,12 @@ See the [website](https://pgr-workshop.github.io) for all papers, invited talks 
 
 ## Research
 
-<img style="float: left; margin: 0px 20px 20px 0px; max-width: 200px;" src="/inverse_graphics.png" alt="learning inverse graphics" width="20%" />
+<img style="float: left; margin: 0px 20px 20px 0px; max-width: 200px;" src="/inverse_graphics2.png" alt="learning inverse graphics" width="20%" />
 **Learning inverse graphics** - In the inverse graphics approach vision problems are formulated as inference using a forward model that captures the image generation process. I am currently exploring different setups for learning forward models that can be used for efficient inference.
 <p style="clear: left;"></p><hr style="height:1px;">
 <img style="float: left; margin: 0px 20px 20px 0px; max-width: 200px;" src="/protein.png" alt="protein structure" width="20%" />
-**Protein Structure** - Understanding the 3D structure of proteins is a fundamental problem in biology, with the potential of unlocking a better understanding of the various functions of proteins in biological mechanisms, and accelerating drug discovery. In currently ongoing work, I am studying models of protein structure that explicitly reason in 3D space, predicting structure using probabilistic inference methods.
+**Dynamic Protein Structure** - Understanding the 3D structure of proteins is a fundamental problem in biology, with the potential of unlocking a better understanding of the various functions of proteins in biological mechanisms, and accelerating drug discovery.  I am studying models of protein structure that explicitly reason in 3D space, predicting structure using probabilistic inference methods.
+In this work ([arXiv](https://arxiv.org/abs/2106.14108)) we propose an inverse graphics approach based on VAEs to model the distribution of protein 3D structure in atom space, using cryo-EM image data.
 <p style="clear: left;"></p><hr style="height:1px;">
 <img style="float: left; margin: 0px 20px 20px 0px; max-width: 200px;" src="/gqn_attention.gif" alt="3D scene understanding with Generative Query Networks (GQN)" width="20%" />
 **3D scene understanding with Generative Query Network (GQN)** - In this paper ([Science](http://science.sciencemag.org/content/360/6394/1204)) we show how implicit scene understanding can emerge from training a model to predict novel views of random 3D scenes ([video](https://youtu.be/G-kWNQJ4idw)). In a follow-up paper ([arXiv](https://arxiv.org/abs/1807.03149)) we extend the model to use attention over image patches, improving its capacity to model rich environments like Minecaft. We study the camera pose estimation problem comparing an inference method with a generative model to a direct discriminative approach ([video](https://youtu.be/iHEXX5wXbCI), [datasets](https://github.com/deepmind/gqn-datasets)).   
@@ -42,7 +44,7 @@ See the [website](https://pgr-workshop.github.io) for all papers, invited talks 
 ## Contact
 
 <img id="contact" style="float: left; margin: 0px 20px 20px 0px; max-width: 150px;" src="/dan_rosenbaum.png" alt="Dan Rosenbaum" width="15%" />
-danro@google.com 
+danro@cs.haifa.ac.il 
 
 [twitter.com/danrsm](https://twitter.com/danrsm)
 
