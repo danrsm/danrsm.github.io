@@ -5,8 +5,8 @@
 
 I am an assistant professor in the Department of Computer Science at the University of Haifa, working on machine learning and computer vision.
 
-Until recently I was a research scientist at DeepMind for five years. 
-Before that, I completed my PhD at the Hebrew University of Jerusalem in 2016, advised by [Yair Weiss](http://www.cs.huji.ac.il/~yweiss/), studying generative models for low-level vision problems. 
+Before joining the University of Haifa I was a research scientist at DeepMind (2016-2021). 
+I completed my PhD at the Hebrew University of Jerusalem in 2016, advised by [Yair Weiss](http://www.cs.huji.ac.il/~yweiss/), studying generative models for low-level vision problems. 
 <a href="/DanRosenbaumThesis.pdf">[thesis]</a>
 
 [Publications](https://scholar.google.com/citations?user=a6CNXV8AAAAJ&hl=en)  &nbsp;&nbsp;&nbsp; [Contact](#contact)
