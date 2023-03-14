@@ -3,7 +3,7 @@
 
 <img style="float: left; margin: 0px 20px 20px 0px; max-width: 270px;" src="/DanRosenbaum.jpg" alt="Dan Rosenbaum" width="50%" />
 
-I am an assistant professor in the Departement of Computer Science at the University of Haifa, working on machine learning and computer vision.
+I am an assistant professor in the Department of Computer Science at the University of Haifa, working on machine learning and computer vision.
 
 Until recently I was a research scientist at DeepMind for five years. 
 Before that, I completed my PhD at the Hebrew University of Jerusalem in 2016, advised by [Yair Weiss](http://www.cs.huji.ac.il/~yweiss/), studying generative models for low-level vision problems. 
