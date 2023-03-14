@@ -29,13 +29,8 @@ See the [website](https://pgr-workshop.github.io) for all papers, invited talks 
 <img style="float: left; margin: 0px 20px 20px 0px; max-width: 200px;" src="/functa.png" alt="treating datapoints as functions" width="35%" />
 **Functa: data as neural fields** - In these two papers ([arXiv](https://arxiv.org/abs/2201.12204), [arXiv](https://arxiv.org/abs/2302.03130)) we explore the representation of data points such as images, manyfolds, 3D shapes and scense using neural fields (aka implicit neural representations). Many standard data representations are a discretization of an underlying continuous signal, and can be more efficiently modeled as functions. We develop a method to map samples of datasets to a functional represention, and demonstrate the benefits of training generative models or classifiers on this representation.
 <p style="clear: left;"></p><hr style="height:1px;">
+
 <img style="float: left; margin: 0px 20px 20px 0px; max-width: 200px;" src="/protein.png" alt="protein structure" width="35%" />
-<!--
-<img style="float: left; margin: 0px 20px 20px 0px; max-width: 200px;" src="/inverse_graphics2.png" alt="learning inverse graphics" width="35%" />
-**Learning inverse graphics** - In the inverse graphics approach vision problems are formulated as inference using a forward model that captures the image generation process. I am currently exploring different setups for learning forward models that can be used for efficient inference.
-<p style="clear: left;"></p><hr style="height:1px;">
-<img style="float: left; margin: 0px 20px 20px 0px; max-width: 200px;" src="/protein.png" alt="protein structure" width="35%" />
--->
 **Dynamic Protein Structure** - Understanding the 3D structure of proteins is a fundamental problem in biology, with the potential of unlocking a better understanding of the various functions of proteins in biological mechanisms, and accelerating drug discovery.  I am studying models of protein structure that explicitly reason in 3D space, predicting structure using probabilistic inference methods.
 In this work ([arXiv](https://arxiv.org/abs/2106.14108)) we propose an inverse graphics approach based on VAEs to model the distribution of protein 3D structure in atom space, using cryo-EM image data.
 <p style="clear: left;"></p><hr style="height:1px;">
