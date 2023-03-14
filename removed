@@ -1,0 +1,3 @@
+<img style="float: left; margin: 0px 20px 20px 0px; max-width: 200px;" src="/inverse_graphics2.png" alt="learning inverse graphics" width="35%" />
+**Learning inverse graphics** - In the inverse graphics approach vision problems are formulated as inference using a forward model that captures the image generation process. I am currently exploring different setups for learning forward models that can be used for efficient inference.
+<p style="clear: left;"></p><hr style="height:1px;">
