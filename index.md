@@ -3,7 +3,7 @@
 
 <img style="float: left; margin: 0px 20px 20px 0px; max-width: 270px;" src="/DanRosenbaum.jpg" alt="Dan Rosenbaum" width="50%" />
 
-I am an assistant professor in the Department of Computer Science at the University of Haifa, working on machine learning and computer vision.
+I am an assistant professor in the Department of Computer Science at the University of Haifa, working on machine learning, computer vision and AI for science.
 
 Before joining the University of Haifa I was a research scientist at DeepMind (2016-2021). 
 I completed my PhD at the Hebrew University of Jerusalem in 2016, advised by [Yair Weiss](http://www.cs.huji.ac.il/~yweiss/), studying generative models for low-level vision problems. 
@@ -14,11 +14,11 @@ I completed my PhD at the Hebrew University of Jerusalem in 2016, advised by [Ya
 
 <p style="clear: left;"></p>
 
-I am interested in computational models of vision and 3D scene understanding, and in using generative approaches that model vision as an inverse problem. 
-- learning models of 3D scenes that can be used for inference.
-- learning discrete representations that divide scenes into objects, types, and concepts.
-- embodied generative models that can control key variables in the data they are trained to capture.
-- scientific imaging, where knowledge of the image acquisition process is used to infer the underlying 3D scene.
+I am interested in computational models of perception, 3D scene understanding, simulation-based inference and machine learning for scientific discoveries. I mainly take generative approaches that model perception as a probabilistic inverse problem. 
+- learning models of 3D scenes that can be used for probabilistic inference.
+- learning continuous and discrete representations of continuous signals.
+- amortizing simulation-based inference. 
+- scientific dicovery using flexible probabilisit modeling of the data acquisition process.
 
 I co-organised a workshop at NeurIPS 2019 titled "**Perception as Generative Reasoning: Structure, Causality, Probability**".  
 See the [website](https://pgr-workshop.github.io) for all papers, invited talks and videos.
