@@ -14,7 +14,7 @@ I completed my PhD at the Hebrew University of Jerusalem in 2016, advised by [Ya
 
 <p style="clear: left;"></p>
 
-I am interested in computational models of perception, 3D scene understanding, simulation-based inference and machine learning for scientific discoveries. I mainly take generative approaches that model perception as a probabilistic inverse problem. 
+I am interested in computational models of perception, 3D scene understanding, simulation-based inference and machine learning for scientific discovery. I mainly take generative approaches that model perception as a probabilistic inverse problem. 
 - learning models of 3D scenes that can be used for probabilistic inference.
 - learning continuous and discrete representations of continuous signals.
 - amortizing simulation-based inference. 
