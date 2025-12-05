@@ -26,6 +26,12 @@ See the [website](https://pgr-workshop.github.io) for all papers, invited talks 
 [Publications](https://scholar.google.com/citations?user=a6CNXV8AAAAJ&hl=en)
 
 ## Research
+<img style="float: left; margin: 0px 20px 20px 0px; max-width: 200px;" src="/seathru-nerf.png" alt="seathru-nerf" width="35%" />
+**Underwater perception** - In collaboration with the School of Marine Sciences, I have worked on several projects on underwater perception problems. In [SeaThru-Nerf](https://sea-thru-nerf.github.io/) (CVPR 2023) we model underwater 3D scenes by adapting NeRF to scattering media rendering;
+in [Osmosis](https://osmosis-diffusion.github.io/) (ECCV 2024) we tackle underwater image restoration using posterior sampling with an RGBD diffusion prior;
+and in [Looking into the water](https://openreview.net/forum?id=4MKIaHbmGO) (NeurIPS 2025) we fix water refraction using a physics-informed neural field approach.
+<p style="clear: left;"></p><hr style="height:1px;">
+
 <img style="float: left; margin: 0px 20px 20px 0px; max-width: 200px;" src="/functa.png" alt="treating datapoints as functions" width="35%" />
 **Functa: data as neural fields** - In these two papers ([arXiv](https://arxiv.org/abs/2201.12204), [arXiv](https://arxiv.org/abs/2302.03130)) we explore the representation of data points such as images, manyfolds, 3D shapes and scense using neural fields (aka implicit neural representations). Many standard data representations are a discretization of an underlying continuous signal, and can be more efficiently modeled as functions. We develop a method to map samples of datasets to a functional represention, and demonstrate the benefits of training generative models or classifiers on this representation.
 <p style="clear: left;"></p><hr style="height:1px;">
