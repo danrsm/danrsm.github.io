@@ -26,6 +26,11 @@ See the [website](https://pgr-workshop.github.io) for all papers, invited talks 
 [Publications](https://scholar.google.com/citations?user=a6CNXV8AAAAJ&hl=en)
 
 ## Research
+<img style="float: left; margin: 0px 20px 20px 0px; max-width: 200px;" src="/flownp.png" alt="FlowNP" width="35%" />
+**Flow Matching Neural Processes** - In this work [OpenReview](https://openreview.net/forum?id=R8n2h7hzqS) (NeurIPS 2025) we introduce a Neural Process (NP) model based on Flow Matching.  The model is simple to implement, trains efficiently and allows parallel generation of target points with amortizing conditoining on context points.
+This approach achieves state-of-the-art performance on benchmarks ranging from 1D functions to real-world weather data (ERA5).
+<p style="clear: left;"></p><hr style="height:1px;">
+
 <img style="float: left; margin: 0px 20px 20px 0px; max-width: 200px;" src="/seathru-nerf.png" alt="seathru-nerf" width="35%" />
 **Underwater perception** - In collaboration with the School of Marine Sciences, I have worked on several projects on underwater perception problems. In [SeaThru-Nerf](https://sea-thru-nerf.github.io/) (CVPR 2023) we model underwater 3D scenes by adapting NeRF to scattering media rendering;
 in [Osmosis](https://osmosis-diffusion.github.io/) (ECCV 2024) we tackle underwater image restoration using posterior sampling with an RGBD diffusion prior;
