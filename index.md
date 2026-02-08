@@ -18,7 +18,7 @@ I am interested in computational models of perception, 3D scene understanding, s
 - learning models of 3D scenes that can be used for probabilistic inference.
 - learning continuous and discrete representations of continuous signals.
 - amortizing simulation-based inference. 
-- scientific dicovery using flexible probabilisitic modeling of the data acquisition process.
+- scientific discovery using flexible probabilistic modeling of the data acquisition process.
 
 I co-organised a workshop at NeurIPS 2019 titled "**Perception as Generative Reasoning: Structure, Causality, Probability**".  
 See the [website](https://pgr-workshop.github.io) for all papers, invited talks and videos.
